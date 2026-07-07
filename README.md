@@ -1,4 +1,4 @@
-# Undetale-Scratch-Template
+# Undertale-Scratch-Template
 An unfinished Undertale fangame built in Scratch.
 
 This contains no actual fangame content, but I thought I would make it available in case it could be useful to anyone wanting to make a Sans-style fangame in Scratch.
